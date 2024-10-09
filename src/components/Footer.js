@@ -1,3 +1,5 @@
+import React from 'react';
+
 import "../css/layout.css"
 import logo from '../image/logo_footer.svg'
 import commu1 from '../image/img_edu.png'

@@ -1,3 +1,5 @@
+import React from 'react';
+
 import "../css/main.css";
 import visual from '../image/img_visual.png'
 import quart from '../image/img_quart.jpg'

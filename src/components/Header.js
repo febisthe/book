@@ -1,23 +1,11 @@
+import React from 'react';
+
 import { useNavigate } from 'react-router-dom';
 import "../css/layout.css"
-import { useEffect, useState } from 'react';
 
-const Home = () => {
 
-  // const [position,setScroll] = useState(0);
-  // function onScroll() {
-  //   setScroll(window.scrollY);
-  // console.log(position);
-  // }
+const Header = () => {
 
-  // useEffect(()=>{
-  //   window.addEventListener('scroll',onScroll);
-  //   return () =>{
-  //     window.removeEventListener('scroll',onScroll);
-  //   }
-  // },[]);
-
-  
   const navigate = useNavigate();
 
   return (
@@ -40,4 +28,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default Header;
