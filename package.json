@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://febisthe.github.io/book/",
+  "homepage": "https://febisthe.github.io/book",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
